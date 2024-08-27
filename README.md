@@ -83,7 +83,7 @@
 
 <h3 align="center">Wanna know more?</h3>
 <p align="center">
-  <a href="https://github.com/mudasirbhat/mudasirbhat">
+  <a href="https://github.com/Mudasir472">
     <img src="https://img.shields.io/badge/-My%20GitHub%20Profile-181717?style=flat&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </p>
