@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mudasir Bhat</h1>
-<h3 align="center">I’m a passionate Full Stack Web Developer from India, skilled in creating dynamic web applications with modern technologies. I excel in both front-end and back-end development, always eager to tackle new challenges and deliver exceptional user experiences.</h3>
+<h3 align="center">I’m a passionate Full Stack Web Developer from India, skilled in creating dynamic web applications with modern technologies. </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mudasirbhat&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
