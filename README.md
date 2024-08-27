@@ -1,3 +1,9 @@
+<!-- Banner Section -->
+<div align="center">
+  <img src="https://res.cloudinary.com/dh7fvtv7e/image/upload/v1724785048/165451783_771682030451190_4140985375354698882_n_zlzv9e.jpg" alt="Banner" style="width: 100%; height: auto; max-width: 1200px;" />
+</div>
+
+<!-- Main Content -->
 <h1 align="center">Hi 👋, I'm Mudasir Bhat</h1>
 <h3 align="center">I’m a passionate Full Stack Web Developer from India, skilled in creating dynamic web applications with modern technologies. </h3>
 
