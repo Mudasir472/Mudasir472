@@ -10,6 +10,12 @@
   <a href="https://www.facebook.com/bhat.muddu.35" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bhat muddu" height="30" width="40" />
   </a>
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
   <a href="https://www.instagram.com/bhat_muddu_/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhat_muddu_472" height="30" width="40" />
   </a>
