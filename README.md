@@ -4,7 +4,7 @@
 </div>
 
 <!-- Main Content -->
-<h1 align="center">Hi 👋, I'm Yasir Nisar Teli</h1>
+<h1 align="center">Hi 👋, I'm Mudasir Ahmad Bhat</h1>
 <h3 align="center">I’m a passionate Full Stack Web Developer from India, skilled in creating dynamic web applications with modern technologies. </h3>
 
 <p align="center">
