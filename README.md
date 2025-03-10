@@ -22,7 +22,7 @@
 
 ### 📊 GitHub Analytics:
 
-![Mudasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MudasirBhat&show_icons=true&theme=dark&count_private=true)
+([![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mudasir472?cardType=github&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MudasirBhat&layout=compact&theme=dark&langs_count=6)
 
