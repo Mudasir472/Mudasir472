@@ -24,7 +24,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MudasirBhat&layout=compact&theme=dark&langs_count=6)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mudasir472&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mudasir472&theme=highcontrast)](https://git.io/streak-stats)
 
 ---
 
