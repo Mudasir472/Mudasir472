@@ -6,7 +6,11 @@
 <!-- New -->
 # 👋 Hi, I'm Mudasir Bhat
 
-## Currently working on Needify: The Community Sharing Platform 🚀
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    🚀 Currently working on Needify: The Community Sharing Platform 🚀
+  </marquee>
+</p>
 
 - 🎓 Final year B.Tech student at MANUU.
 - 🔧 Skilled in MERN stack, React, Node.js, MongoDB, and Redux.
@@ -17,7 +21,14 @@
 ---
 
 ### 📊 GitHub Analytics:
-![Mudasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=MudasirBhat&show_icons=true&theme=dark)
+
+![Mudasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MudasirBhat&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MudasirBhat&layout=compact&theme=dark&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=MudasirBhat&theme=dark&hide_border=false)
+
+---
 
 ### 🚀 Tech Stack:
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -26,9 +37,11 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
+---
+
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudasirbhat/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MudasirBhat)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](ht
 
 
 <!-- Main Content -->
