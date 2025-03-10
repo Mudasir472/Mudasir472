@@ -13,7 +13,7 @@
 - 🔧 Skilled in MERN stack, React, Node.js, MongoDB, and Redux.
 - 📌 Passionate about full-stack development and problem-solving.
 - 💡 Open to collaborations on web development and innovative projects.
-- 📩 Reach me at **6006189840** or **mudasirbhat@gmail.com**.
+- 📩 Reach me at **6006189840** or **bhatmuddu472@gmail.com**.
 
 ---
 
