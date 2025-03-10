@@ -1,16 +1,13 @@
+<!--Top-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi!+I%E2%80%99m+Mudasir+Bhat+%7C+Full-Stack+Developer+%F0%9F%92%BB++;%F0%9F%9A%80+Passionate+about+MERN+Stack+%26+Problem-Solving;%F0%9F%8C%8D+Open+to+collaboration+%26+learning+new+tech++)](https://git.io/typing-svg)
+
 <!-- Banner Section -->
 <div align="center">
   <img src="https://res.cloudinary.com/dh7fvtv7e/image/upload/v1724785048/165451783_771682030451190_4140985375354698882_n_zlzv9e.jpg" alt="Banner" style="width: 100%; height: auto; max-width: 1200px;" />
 </div>
 
 <!-- Introduction -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi!+I%E2%80%99m+Mudasir+Bhat+%7C+Full-Stack+Developer+%F0%9F%92%BB++;%F0%9F%9A%80+Passionate+about+MERN+Stack+%26+Problem-Solving;%F0%9F%8C%8D+Open+to+collaboration+%26+learning+new+tech++)](https://git.io/typing-svg)
 
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5">
-    🚀 Currently working on Needify: The Community Sharing Platform 🚀
-  </marquee>
-</p>
 
 - 🎓 Final year B.Tech student at MANUU.
 - 🔧 Skilled in MERN stack, React, Node.js, MongoDB, and Redux.
