@@ -1,5 +1,5 @@
 <!--Top-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi!+I%E2%80%99m+Mudasir+Bhat+%7C+Full-Stack+Developer+%F0%9F%92%BB++;%F0%9F%9A%80+Passionate+about+MERN+Stack+%26+Problem-Solving;%F0%9F%8C%8D+Open+to+collaboration+%26+learning+new+tech++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi!+I%E2%80%99m+Mudasir+Bhat+;%F0%9F%9A%80+Passionate+about+MERN+Stack+%26+Problem-Solving;%F0%9F%8C%8D+Open+to+collaboration+%26+learning+new+tech++)](https://git.io/typing-svg)
 
 <!-- Banner Section -->
 <div align="center">
