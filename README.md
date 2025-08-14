@@ -9,7 +9,6 @@
 <!-- Introduction -->
 
 
-- 🎓 B.Tech from MANUU Hyderabad.
 - 🔧 Skilled in MERN stack, React, Node.js, MongoDB, and Redux.
 - 📌 Passionate about full-stack development and problem-solving.
 - 💡 Open to collaborations on web development and innovative projects.
